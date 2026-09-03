@@ -151,3 +151,4 @@ const int CELDAS = 2;          // cantidad de celdas de la batería LiPo
 ---
 
 Desarrollado por [@pulguitaCuak](https://github.com/pulguitaCuak)
+ y Ramiro herrera
