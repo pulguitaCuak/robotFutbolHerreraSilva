@@ -14,7 +14,6 @@ Robot de tracción diferencial controlado con un joystick de PlayStation 3 vía 
 - [Estructura del código](#estructura-del-código)
 - [Configuración](#configuración)
 - [Roadmap](#roadmap)
-- [Licencia](#licencia)
 
 ## Descripción
 
