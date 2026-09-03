@@ -148,9 +148,7 @@ const int CELDAS = 2;          // cantidad de celdas de la batería LiPo
 - Definir y programar la función del DIP switch (actualmente reservado, solo se lee su estado por Serial)
 - Calibrar el divisor de tensión con multímetro
 - Chasis y ensamblaje final del robot
-
-## Licencia
-
+  
 ---
 
 Desarrollado por [@pulguitaCuak](https://github.com/pulguitaCuak)
