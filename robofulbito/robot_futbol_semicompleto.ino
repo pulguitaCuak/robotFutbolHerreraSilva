@@ -15,7 +15,7 @@ const int PIN_DIN4 = 35;
 
 // ---------- PINES INDICADORES ----------
 const int PIN_BUZZER = 21;    
-const int PIN_RGB_R  = 3;      
+const int PIN_RGB_R  = 12;      
 const int PIN_RGB_G  = 22;    
 const int PIN_RGB_B  = 23;    
 
